@@ -1,0 +1,18 @@
+.history-item {
+    display: flex;
+    padding: 12px 24px;
+    box-shadow: 0 0 1px rgba(67, 68, 69, 0.3), 0 1px 1px rgba(67, 68, 69, 0.3);
+    border-radius: 6px;
+}
+
+.history-item-status-icon {
+    margin-right: 10px;
+}
+
+.history-item-status-icon {
+    margin-right: 10px;
+}
+
+.history-item-timing {
+    margin-left: auto;
+}
